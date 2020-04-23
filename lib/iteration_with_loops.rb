@@ -15,4 +15,5 @@ def find_min_in_nested_arrays(src)
     daily_min_temps << daily_min
     outer_count += 1
   end
+  daily_min_temps
 end
